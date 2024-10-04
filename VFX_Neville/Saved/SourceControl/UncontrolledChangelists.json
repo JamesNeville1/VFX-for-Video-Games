@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/n013403n/Downloads/VFX_Neville/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/n013403n/Downloads/VFX_Neville/Content/TEX_Warped_Donut.uasset",
+				"C:/Users/n013403n/Downloads/VFX_Neville/Content/TEX_Health.uasset",
+				"C:/Users/n013403n/Downloads/VFX_Neville/Content/NS_Test.uasset",
+				"C:/Users/n013403n/Downloads/VFX_Neville/Content/M_Health.uasset",
+				"C:/Users/n013403n/Downloads/VFX_Neville/Content/TEX_Heal_Radius.uasset",
+				"C:/Users/n013403n/Downloads/VFX_Neville/Content/M_Heal_Radius.uasset",
+				"C:/Users/n013403n/Downloads/VFX_Neville/Content/Substance_graph_output_2.uasset",
+				"C:/Users/n013403n/Downloads/VFX_Neville/Content/VFXForVideoGamesExamples_Circle.uasset",
+				"C:/Users/n013403n/Downloads/VFX_Neville/Content/VFXForVideoGamesExamples_Hexagon.uasset",
+				"C:/Users/n013403n/Downloads/VFX_Neville/Content/VFXForVideoGamesExamples_HexagonHollow.uasset",
+				"C:/Users/n013403n/Downloads/VFX_Neville/Content/VFXForVideoGamesExamples_HollowCircle.uasset",
+				"C:/Users/n013403n/Downloads/VFX_Neville/Content/VFXForVideoGamesExamples_HollowSquare.uasset",
+				"C:/Users/n013403n/Downloads/VFX_Neville/Content/VFXForVideoGamesExamples_Square.uasset",
+				"C:/Users/n013403n/Downloads/VFX_Neville/Content/VFXForVideoGamesExamples_Stab.uasset",
+				"C:/Users/n013403n/Downloads/VFX_Neville/Content/VFXForVideoGamesExamples_Triangle.uasset",
+				"C:/Users/n013403n/Downloads/VFX_Neville/Content/VFXForVideoGamesExamples_TriangleHollow.uasset",
+				"C:/Users/n013403n/Downloads/VFX_Neville/Content/VFXForVideoGamesExamplesBasicGlow.uasset",
+				"C:/Users/n013403n/Downloads/VFX_Neville/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/IZ/6RQJY28WAS6CWQXD0Q53VS.uasset",
+				"C:/Users/n013403n/Downloads/VFX_Neville/Content/TEX_Heal.uasset"
+			]
+		}
+	]
+}

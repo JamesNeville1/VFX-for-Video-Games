@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\n013403n\\downloads\\vfx_neville\\intermediate\\build\\win64\\unrealeditor\\inc\\vfx_neville\\uht\\vfx_nevillegamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\n013403n\\downloads\\vfx_neville\\intermediate\\build\\win64\\x64\\vfx_nevilleeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\n013403n\\downloads\\vfx_neville\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vfx_neville\\definitions.vfx_neville.h",
+            "c:\\users\\n013403n\\downloads\\vfx_neville\\source\\vfx_neville\\vfx_nevillegamemode.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\n013403n\\downloads\\vfx_neville\\intermediate\\build\\win64\\unrealeditor\\inc\\vfx_neville\\uht\\vfx_nevillegamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

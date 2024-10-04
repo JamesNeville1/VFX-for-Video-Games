@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "VFX_Neville",
+			"Path": "..\\Source\\VFX_Neville.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VFX_NevilleEditor",
+			"Path": "..\\Source\\VFX_NevilleEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
