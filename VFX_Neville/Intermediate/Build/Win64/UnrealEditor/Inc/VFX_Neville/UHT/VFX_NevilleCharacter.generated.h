@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define VFX_NEVILLE_VFX_NevilleCharacter_generated_h
 
-#define FID_Users_n013403n_Downloads_VFX_Neville_Source_VFX_Neville_VFX_NevilleCharacter_h_21_INCLASS_NO_PURE_DECLS \
+#define FID_Users_n013403n_Documents_GitHub_VFX_for_Video_Games_VFX_Neville_Source_VFX_Neville_VFX_NevilleCharacter_h_21_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAVFX_NevilleCharacter(); \
 	friend struct Z_Construct_UClass_AVFX_NevilleCharacter_Statics; \
@@ -23,7 +23,7 @@ public: \
 	DECLARE_SERIALIZER(AVFX_NevilleCharacter)
 
 
-#define FID_Users_n013403n_Downloads_VFX_Neville_Source_VFX_Neville_VFX_NevilleCharacter_h_21_ENHANCED_CONSTRUCTORS \
+#define FID_Users_n013403n_Documents_GitHub_VFX_for_Video_Games_VFX_Neville_Source_VFX_Neville_VFX_NevilleCharacter_h_21_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	AVFX_NevilleCharacter(AVFX_NevilleCharacter&&); \
@@ -35,12 +35,12 @@ public: \
 	NO_API virtual ~AVFX_NevilleCharacter();
 
 
-#define FID_Users_n013403n_Downloads_VFX_Neville_Source_VFX_Neville_VFX_NevilleCharacter_h_18_PROLOG
-#define FID_Users_n013403n_Downloads_VFX_Neville_Source_VFX_Neville_VFX_NevilleCharacter_h_21_GENERATED_BODY \
+#define FID_Users_n013403n_Documents_GitHub_VFX_for_Video_Games_VFX_Neville_Source_VFX_Neville_VFX_NevilleCharacter_h_18_PROLOG
+#define FID_Users_n013403n_Documents_GitHub_VFX_for_Video_Games_VFX_Neville_Source_VFX_Neville_VFX_NevilleCharacter_h_21_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_n013403n_Downloads_VFX_Neville_Source_VFX_Neville_VFX_NevilleCharacter_h_21_INCLASS_NO_PURE_DECLS \
-	FID_Users_n013403n_Downloads_VFX_Neville_Source_VFX_Neville_VFX_NevilleCharacter_h_21_ENHANCED_CONSTRUCTORS \
+	FID_Users_n013403n_Documents_GitHub_VFX_for_Video_Games_VFX_Neville_Source_VFX_Neville_VFX_NevilleCharacter_h_21_INCLASS_NO_PURE_DECLS \
+	FID_Users_n013403n_Documents_GitHub_VFX_for_Video_Games_VFX_Neville_Source_VFX_Neville_VFX_NevilleCharacter_h_21_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -48,7 +48,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> VFX_NEVILLE_API UClass* StaticClass<class AVFX_NevilleCharacter>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_n013403n_Downloads_VFX_Neville_Source_VFX_Neville_VFX_NevilleCharacter_h
+#define CURRENT_FILE_ID FID_Users_n013403n_Documents_GitHub_VFX_for_Video_Games_VFX_Neville_Source_VFX_Neville_VFX_NevilleCharacter_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

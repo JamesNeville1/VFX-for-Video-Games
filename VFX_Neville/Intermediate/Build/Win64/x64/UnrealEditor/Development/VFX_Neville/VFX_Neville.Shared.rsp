@@ -1,6 +1,6 @@
 /I "."
-/I "C:\Users\n013403n\Downloads\VFX_Neville\Intermediate\Build\Win64\UnrealEditor\Inc\VFX_Neville\UHT"
-/I "C:\Users\n013403n\Downloads\VFX_Neville\Source"
+/I "C:\Users\n013403n\Documents\GitHub\VFX-for-Video-Games\VFX_Neville\Intermediate\Build\Win64\UnrealEditor\Inc\VFX_Neville\UHT"
+/I "C:\Users\n013403n\Documents\GitHub\VFX-for-Video-Games\VFX_Neville\Source"
 /I "Runtime\Core\Public"
 /I "Runtime\Core\Internal"
 /I "Runtime\TraceLog\Public"

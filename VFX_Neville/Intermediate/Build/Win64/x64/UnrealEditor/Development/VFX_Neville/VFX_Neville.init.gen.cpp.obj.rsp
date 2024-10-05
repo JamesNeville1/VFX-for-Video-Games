@@ -1,11 +1,11 @@
-"C:\Users\n013403n\Downloads\VFX_Neville\Intermediate\Build\Win64\UnrealEditor\Inc\VFX_Neville\UHT\VFX_Neville.init.gen.cpp"
-/FI"C:\Users\n013403n\Downloads\VFX_Neville\Intermediate\Build\Win64\x64\VFX_NevilleEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"C:\Users\n013403n\Downloads\VFX_Neville\Intermediate\Build\Win64\x64\UnrealEditor\Development\VFX_Neville\Definitions.VFX_Neville.h"
-/Yu"C:\Users\n013403n\Downloads\VFX_Neville\Intermediate\Build\Win64\x64\VFX_NevilleEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"C:\Users\n013403n\Downloads\VFX_Neville\Intermediate\Build\Win64\x64\VFX_NevilleEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"C:\Users\n013403n\Downloads\VFX_Neville\Intermediate\Build\Win64\x64\UnrealEditor\Development\VFX_Neville\VFX_Neville.init.gen.cpp.obj"
-/sourceDependencies "C:\Users\n013403n\Downloads\VFX_Neville\Intermediate\Build\Win64\x64\UnrealEditor\Development\VFX_Neville\VFX_Neville.init.gen.cpp.dep.json"
-@"C:\Users\n013403n\Downloads\VFX_Neville\Intermediate\Build\Win64\x64\UnrealEditor\Development\VFX_Neville\VFX_Neville.Shared.rsp"
+"C:\Users\n013403n\Documents\GitHub\VFX-for-Video-Games\VFX_Neville\Intermediate\Build\Win64\UnrealEditor\Inc\VFX_Neville\UHT\VFX_Neville.init.gen.cpp"
+/FI"C:\Users\n013403n\Documents\GitHub\VFX-for-Video-Games\VFX_Neville\Intermediate\Build\Win64\x64\VFX_NevilleEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Users\n013403n\Documents\GitHub\VFX-for-Video-Games\VFX_Neville\Intermediate\Build\Win64\x64\UnrealEditor\Development\VFX_Neville\Definitions.VFX_Neville.h"
+/Yu"C:\Users\n013403n\Documents\GitHub\VFX-for-Video-Games\VFX_Neville\Intermediate\Build\Win64\x64\VFX_NevilleEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Users\n013403n\Documents\GitHub\VFX-for-Video-Games\VFX_Neville\Intermediate\Build\Win64\x64\VFX_NevilleEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\n013403n\Documents\GitHub\VFX-for-Video-Games\VFX_Neville\Intermediate\Build\Win64\x64\UnrealEditor\Development\VFX_Neville\VFX_Neville.init.gen.cpp.obj"
+/sourceDependencies "C:\Users\n013403n\Documents\GitHub\VFX-for-Video-Games\VFX_Neville\Intermediate\Build\Win64\x64\UnrealEditor\Development\VFX_Neville\VFX_Neville.init.gen.cpp.dep.json"
+@"C:\Users\n013403n\Documents\GitHub\VFX-for-Video-Games\VFX_Neville\Intermediate\Build\Win64\x64\UnrealEditor\Development\VFX_Neville\VFX_Neville.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi
