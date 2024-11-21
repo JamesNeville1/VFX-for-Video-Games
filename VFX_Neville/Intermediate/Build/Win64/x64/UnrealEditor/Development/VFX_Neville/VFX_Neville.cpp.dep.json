@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\n013403n\\documents\\github\\vfx-for-video-games\\vfx_neville\\source\\vfx_neville\\vfx_neville.cpp",
+        "Source": "c:\\users\\n013403n.student\\documents\\github\\vfx-for-video-games\\vfx_neville\\source\\vfx_neville\\vfx_neville.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\n013403n\\documents\\github\\vfx-for-video-games\\vfx_neville\\intermediate\\build\\win64\\x64\\vfx_nevilleeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "c:\\users\\n013403n.student\\documents\\github\\vfx-for-video-games\\vfx_neville\\intermediate\\build\\win64\\x64\\vfx_nevilleeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\n013403n\\documents\\github\\vfx-for-video-games\\vfx_neville\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vfx_neville\\definitions.vfx_neville.h",
-            "c:\\users\\n013403n\\documents\\github\\vfx-for-video-games\\vfx_neville\\source\\vfx_neville\\vfx_neville.h"
+            "c:\\users\\n013403n.student\\documents\\github\\vfx-for-video-games\\vfx_neville\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vfx_neville\\definitions.vfx_neville.h",
+            "c:\\users\\n013403n.student\\documents\\github\\vfx-for-video-games\\vfx_neville\\source\\vfx_neville\\vfx_neville.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
